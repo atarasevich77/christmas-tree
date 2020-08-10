@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/christmas-tree/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/christmas-tree/static/js/main.efbaaae3.chunk.js",
+    "main.js.map": "/christmas-tree/static/js/main.efbaaae3.chunk.js.map",
+    "runtime-main.js": "/christmas-tree/static/js/runtime-main.ef166c7e.js",
+    "runtime-main.js.map": "/christmas-tree/static/js/runtime-main.ef166c7e.js.map",
+    "static/js/2.72d5f2b9.chunk.js": "/christmas-tree/static/js/2.72d5f2b9.chunk.js",
+    "static/js/2.72d5f2b9.chunk.js.map": "/christmas-tree/static/js/2.72d5f2b9.chunk.js.map",
+    "index.html": "/christmas-tree/index.html",
+    "precache-manifest.2cbeeef5e2966140f5c762adf1773921.js": "/christmas-tree/precache-manifest.2cbeeef5e2966140f5c762adf1773921.js",
+    "service-worker.js": "/christmas-tree/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/christmas-tree/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.72d5f2b9.chunk.js.LICENSE.txt": "/christmas-tree/static/js/2.72d5f2b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef166c7e.js",
+    "static/js/2.72d5f2b9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.efbaaae3.chunk.js"
+  ]
+}
