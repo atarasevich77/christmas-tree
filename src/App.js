@@ -23,14 +23,16 @@ function App() {
   }
 
   return (
-    <div>
-      <input type="text" onChange={(e)=>setCounter(e.target.value)}/>
-      <button onClick={handleButton}>Make a Tree</button>
-      {
-        list.map(el =>
-            <div key={el}>{el}</div>
-        )
-      }
+    <div className="container">
+      <div className="row justify-content-center">
+        <input type="text" onChange={(e)=>setCounter(e.target.value)}/>
+        <button className="btn-light" onClick={handleButton}>Make a Tree</button>
+      </div>
+        {
+          list.map(el =>
+              <div className="row justify-content-center"key={el}>{el}</div>
+          )
+        }
     </div>
   );
 }
