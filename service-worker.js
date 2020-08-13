@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/christmas-tree/precache-manifest.2cbeeef5e2966140f5c762adf1773921.js"
+  "/christmas-tree/precache-manifest.c1274e4b3e6107d5bc831d755a9e1bfa.js"
 );
 
 self.addEventListener('message', (event) => {
