@@ -25,8 +25,12 @@ function App() {
   return (
     <div className="container">
       <div className="row justify-content-center">
-        <input type="text" onChange={(e)=>setCounter(e.target.value)}/>
-        <button className="btn btn-secondary" onClick={handleButton}>Make a Tree</button>
+        <div className="input-group m-3 w-25">
+          <input type="text" className="form-control" onChange={(e)=>setCounter(e.target.value)} />
+            <div className="input-group-append">
+              <button className="btn btn-outline-secondary" onClick={handleButton}>Make a Tree</button>
+            </div>
+        </div>
       </div>
         {
           list.map(el =>
