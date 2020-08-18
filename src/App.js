@@ -19,7 +19,7 @@ function App() {
       }
       tree.push(star + zero);
     }
-    setList(tree)
+    setList(tree);
   }
 
   return (
